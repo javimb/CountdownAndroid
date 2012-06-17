@@ -1,0 +1,4 @@
+Simple countdown timer for Android apps.
+
+If you want to use this countdown timer in your app, you only need to add the Countdown.java class to your project.
+See the example and don't forget the vibrate permission!!
